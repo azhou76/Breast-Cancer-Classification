@@ -3,13 +3,6 @@
 """
    This file contains the main program to read data, run the classifier,
    and print results to stdout.
-   
-   You can change the batch size and convergence threshold here. 
-   
-   You can also add debugging code or code to help produce your report, 
-   but this code should not be run by default in your final submission.
-
-   Brown CS142, Spring 2020
 """
 
 import numpy as np

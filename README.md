@@ -5,4 +5,4 @@ Dataset retrieved from the  UCI Machine Learning Repository (https://archive.ics
 
 After fine-tuning the hyperparameters (i.e. learning rate of 0.03, batch size of 16, convergence threshold of 0.01), I achieved a maximum test accuracy (with the train-test data split being 70-30) of 93.6%, converging after 24 epochs.
 
-To run program, use the command "python main.py" within a proper machine learning environment.
+To run program, use the command "python main.py" within a proper machine learning environment. This project takes inspiration from a former course project that used a different dataset.
